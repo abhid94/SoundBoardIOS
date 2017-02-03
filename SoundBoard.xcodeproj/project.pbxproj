@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					7C21D2751E42F22A0048F772 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = FDU885356T;
 						ProvisioningStyle = Automatic;
 					};
 					7C21D2891E42F22A0048F772 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FDU885356T;
 				INFOPLIST_FILE = SoundBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Outplay.SoundBoard;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FDU885356T;
 				INFOPLIST_FILE = SoundBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Outplay.SoundBoard;
@@ -503,6 +506,7 @@
 				7C21D2A01E42F22A0048F772 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C21D2A11E42F22A0048F772 /* Build configuration list for PBXNativeTarget "SoundBoardTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +515,7 @@
 				7C21D2A31E42F22A0048F772 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C21D2A41E42F22A0048F772 /* Build configuration list for PBXNativeTarget "SoundBoardUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				7C21D2A61E42F22A0048F772 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
